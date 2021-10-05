@@ -1,0 +1,30 @@
+body {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	background-color: #CFD8DC;
+}
+
+.text_default {
+	font-family: 'Anton', sans-serif;
+	font-size: 20vw;
+}
+
+.text_title {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 40vw;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#viewport_container {
+	position: relative;
+	left: 0px;
+	top: 0px;
+}
+
+
