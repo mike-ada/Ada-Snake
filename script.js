@@ -1,7 +1,7 @@
 "use strict";
 
 //task 1 - 
-//1.1: review the code base so that you can explain generally what each line is doing
+//1.1: review the code base so that you can explain generally what each line is doing and create a simple diagram illustrating the basic flow.
 //1.2: change the colour of the target object from red to green
 //1.3: improve the game by updating the target's fixed location so that it is generated randomly during the setup
 //1.4: complete the code blocks associated with controlling the snake's direction of tavel; i.e., paint_snake and keypressed functions review the switch instruction.. 
